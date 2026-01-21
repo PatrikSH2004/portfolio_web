@@ -18,8 +18,9 @@ A professional portfolio website for a HA(it) (Business Administration and Infor
 
 1. Open `index.html` in a web browser to view the portfolio
 2. Customize the content in `index.html`:
-   - Replace `[Year]` with your expected graduation year
-   - Update contact information (email, LinkedIn profile)
+   - Replace `YYYY` with your expected graduation year
+   - Update email to `your-name@student.cbs.dk` with your actual name
+   - Update LinkedIn URL to your actual profile username
    - Add your actual projects and experiences
    - Modify skills based on your expertise
 3. Customize colors in `styles.css` if desired (see CSS variables in `:root`)
